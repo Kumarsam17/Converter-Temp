@@ -1,0 +1,36 @@
+body{
+    background: rgba(241, 184, 27,.6);
+}
+   .container{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       flex-direction: column;
+       height: 80vh;
+   }
+#fg{
+   display: block;
+   font-size: 50px;
+   color: red;
+   position: absolute;
+   bottom: 80px;
+}
+button{
+   margin-top: 12px;
+   background: tan;
+   width: 100px;
+   height: 30px;
+   
+}
+#celcius{
+   width: 300px;
+   font-size: 20px;
+   border: 2px solid blueviolet;
+   background: rgba(0, 0, 0, 0.6);
+   color: aliceblue;
+   text-align: center;
+  
+}
+h1{
+   text-align: center;
+}
